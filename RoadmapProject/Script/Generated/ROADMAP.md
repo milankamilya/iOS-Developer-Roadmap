@@ -37,7 +37,7 @@ Tapping on a link will take you to relevant materials.
             - [X] [`Memory leaks`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Memory_leaks/RESOURCES.md)
             - [X] [Shallow and deep copying](Resources/iOS_Developer/Practical_knowledge/Memory_management/Shallow_and_deep_copying/RESOURCES.md)
             - [X] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
-        - [ ] [`Multithreading and concurrency`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/RESOURCES.md)
+        - [X] [`Multithreading and concurrency`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/RESOURCES.md)
             - [ ] [POSIX and NSThreads](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/POSIX_and_NSThreads/RESOURCES.md)
             - [ ] [Perform selector family](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Perform_selector_family/RESOURCES.md)
             - [ ] [`GCD`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/GCD/RESOURCES.md)
