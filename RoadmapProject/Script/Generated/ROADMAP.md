@@ -26,7 +26,7 @@ Tapping on a link will take you to relevant materials.
                 - [ ] [`Enums`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Enums/RESOURCES.md)
                 - [ ] [Runtime](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/RESOURCES.md)
                     - [ ] [Method dispatch](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/Method_dispatch/RESOURCES.md)
-        - [ ] [`Memory management`](Resources/iOS_Developer/Practical_knowledge/Memory_management/RESOURCES.md)
+        - [X] [`Memory management`](Resources/iOS_Developer/Practical_knowledge/Memory_management/RESOURCES.md)
             - [X] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
             - [X] [`Value vs Reference type`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Value_vs_Reference_type/RESOURCES.md)
             - [X] [MRC](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
@@ -163,7 +163,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] Snapshot Tests
             - [ ] Functional test
             - [ ] UI Tests
-            - [ ] [TDD](Resources/iOS_Developer/Practical_knowledge/Testing/TDD/RESOURCES.md)
+            - [X] [TDD](Resources/iOS_Developer/Practical_knowledge/Testing/TDD/RESOURCES.md)
             - [ ] [BDD](Resources/iOS_Developer/Practical_knowledge/Testing/BDD/RESOURCES.md)
         - [ ] Performance optimization
             - [ ] Increase FPS
